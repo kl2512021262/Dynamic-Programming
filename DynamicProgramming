@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class EmergencyAmbulanceOptimization {
+public class DynamicProgramming {
 
     static String[] locations = {"Hospital", "Emergency Location B", "Emergency Location C", "Emergency Location D"};
 
